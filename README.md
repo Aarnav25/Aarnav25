@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aarnav25
-- 👀 I’m interested in UI/UX designing and software development.
+- 👀 I’m interested in UI/UX designing and Web development.
 - 🌱 I’m currently learning JAVASCRIPT.
 - 📫 Email- aarnavsabherwal00@gmail.com
 - 😄 Pronouns: he/him
